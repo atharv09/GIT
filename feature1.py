@@ -1,4 +1,4 @@
 def welcome():
-    print("Habibi come to Dubai2S")
+    print("Habibi come to Dubai")
 
 welcome()
