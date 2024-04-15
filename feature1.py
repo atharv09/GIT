@@ -1,5 +1,4 @@
 def welcome():
-
-    print("feature3")
+  print("merge conflict resolved")
 
 welcome()
